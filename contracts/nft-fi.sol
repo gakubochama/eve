@@ -87,5 +87,6 @@ contract Nftfi {
         collateralizedNFTs[countIndex].invester = msg.sender;
         collateralizedNFTs[countIndex].price = price;
         // trnasfer
+
     }
 }
